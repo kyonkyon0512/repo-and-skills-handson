@@ -7,7 +7,7 @@ authors:
   - family-names: "youkiti"
     given-names: ""
     # orcid: "https://orcid.org/0000-0000-0000-0000"  # お持ちなら記入してください
-repository-code: "https://github.com/youkiti/repo-and-skills-handson"
+repository-code: "https://github.com/kyonkyon0512/repo-and-skills-handson"
 license: CC-BY-4.0
 keywords:
   - systematic-review
